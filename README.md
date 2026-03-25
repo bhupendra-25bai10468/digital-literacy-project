@@ -53,10 +53,15 @@ Created profiles on:
 
 ---
 
+## 📄 Project Report
+📎 [View Report](report/Project%20Report.pdf)
+
+---
+
 ## 📊 Learning Outcome
 This project helped me learn and understand about digital tools, safety on the internet, and professional communication.
 
 ---
 
 ## 🔗 Repository Link
-https://github.com/bhupendra-25bai10468/digital-literacy-project.git
+[GitHub Repository](https://github.com/bhupendra-25bai10468/digital-literacy-project.git)
