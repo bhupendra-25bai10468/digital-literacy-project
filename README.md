@@ -5,20 +5,20 @@
 ## 👤 Student Details
 - Name: Bhupendra Singh
 - Reg No: 25BAI10468
-- Branch: B.Tech CSE
+- Branch: B.Tech CSE (AI & ML)
 - Year: 1st Year
 
 ---
 
 ## 📌 Project Overview
-This project is created as part of the Digital Literacy course. It focuses on helping students understand digital tools, online safety, and professional communication.
+This project is created as part of the Digital Literacy course. This project is about helping students learn about digital tools, safety on the internet, and professional communication.
 
 ---
 
-## 📂 Tasks Covered
+## 📂 Project Structure
 
 ### 🧩 Task 1 – Infographic
-Created a digital literacy infographic using Canva/Prezi covering:
+Created a digital literacy infographic using Canva/Prezi on:
 - Digital literacy basics
 - Safe internet practices
 - Email etiquette  
@@ -54,7 +54,7 @@ Created profiles on:
 ---
 
 ## 📊 Learning Outcome
-This project helped me understand digital tools, online safety, and professional communication skills.
+This project helped me learn and understand about digital tools, safety on the internet, and professional communication.
 
 ---
 
