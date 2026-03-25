@@ -22,7 +22,7 @@ Created a digital literacy infographic using Canva/Prezi on:
 - Digital literacy basics
 - Safe internet practices
 - Email etiquette  
-📎 [View Infographic](task-1-presentation/infographic.pdf)
+📎 [View Infographic](task-1-presentation/Infographic.pdf)
 
 ---
 
