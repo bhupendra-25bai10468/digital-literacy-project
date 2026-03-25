@@ -1,9 +1,11 @@
 # Cybercrime Case Study: Phishing
 
-Phishing is a type of cybercrime, also known as internet crime, whereby an attacker sends false information like emails, messages, or links, imitating a trustworthy source like banks or popular websites. The main idea behind this is to trick people into divulging their confidential information like passwords, OTPs, or bank account numbers, etc. 
+Phishing is a form of cybercrime where the attacker tries to acquire sensitive information, like passwords, OTP, or even bank account information, by masquerading as a trustworthy entity, such as a bank or a popular online site.
 
-A classic example of a phishing attack is when a person receives a message saying their bank account will be suspended unless they confirm their account information immediately. The message contains a link. When the person clicks on it and enters their account information, the attacker gets their information and uses it for fraudulent purposes. 
+In the case of phishing, the attacker sends the victim an email that appears urgent, claiming that the victim’s bank account has been suspended, among other issues. The email contains a link that looks authentic to the victim. Once the victim clicks on the link, he or she is redirected to another site that looks exactly the same as the original site. The victim is then prompted to enter some sensitive information, which the attacker easily intercepts.
 
-In this type of attack, students or new internet users are often targeted because they are not aware of false links or messages. The consequences of a phishing attack are financial loss, identity theft, or unauthorized use of their personal accounts. 
+Young students are the most vulnerable to phishing, as they may not be able to recognize fake links and messages.
 
-In this case study, it is clear how it is important for people to be aware of such kinds of attacks before divulging their personal information.
+Some of the consequences of phishing include the loss of money, identity theft, and illegal access to personal accounts.
+
+In this case, the importance of digital awareness and the need to be cautious before giving out any personal information online are emphasized.
