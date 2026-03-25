@@ -37,7 +37,7 @@ Created profiles on:
 ### 💻 Task 3 – Platforms
 - Completed coding challenge (HackerRank)
 - Created Google Form Quiz  
-📎(https://forms.gle/AvLByiMmqLPgKABWA)
+📎https://forms.gle/AvLByiMmqLPgKABWA
 
 ---
 
