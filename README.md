@@ -48,7 +48,7 @@ Created profiles on:
 ---
 
 ### 🔐 Task 5 – Cybercrime Awareness
-- Case study on phishing/UPI fraud  
+- Case study on phishing
 - Prevention checklist  
 
 ---
