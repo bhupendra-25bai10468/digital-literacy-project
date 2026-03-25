@@ -1,9 +1,9 @@
 # Cybercrime Case Study: Phishing
 
-Phishing is a type of cybercrime in which attackers send fake emails, messages, or links pretending to be from trusted sources such as banks or popular websites. The goal is to trick users into sharing sensitive information like passwords, OTPs, or bank details.
+Phishing is a type of cybercrime, also known as internet crime, whereby an attacker sends false information like emails, messages, or links, imitating a trustworthy source like banks or popular websites. The main idea behind this is to trick people into divulging their confidential information like passwords, OTPs, or bank account numbers, etc. 
 
-A common phishing scenario involves a user receiving a message claiming that their bank account will be blocked unless they verify their details immediately. The message includes a link that looks genuine. When the user clicks the link and enters their details, the attacker captures the information and uses it for fraud.
+A classic example of a phishing attack is when a person receives a message saying their bank account will be suspended unless they confirm their account information immediately. The message contains a link. When the person clicks on it and enters their account information, the attacker gets their information and uses it for fraudulent purposes. 
 
-Students and inexperienced internet users are often targeted because they may not recognize fake links or messages. The consequences of phishing include financial loss, identity theft, and unauthorized access to personal accounts.
+In this type of attack, students or new internet users are often targeted because they are not aware of false links or messages. The consequences of a phishing attack are financial loss, identity theft, or unauthorized use of their personal accounts. 
 
-This case study highlights the importance of being aware of such scams and verifying sources before sharing any personal information online.
+In this case study, it is clear how it is important for people to be aware of such kinds of attacks before divulging their personal information.
