@@ -1,15 +1,15 @@
-# Social Media Do's and Don'ts
+## Social Media Do's and Don'ts
 
-## ✅ Do's
+## Do's
 - Use a professional profile picture  
 - Share positive and useful content  
-- Respect others online  
+- Show respect to other people online  
 - Keep your information secure  
-- Think before posting  
+- Think before you share content  
 
-## ❌ Don'ts
-- Don’t share personal or sensitive information  
-- Don’t post offensive content  
+## Don'ts
+- Don’t share personal information  
+- Don’t share offensive content  
 - Don’t use abusive language  
-- Don’t spread fake news  
-- Don’t waste excessive time on social media  
+- Don’t share fake news  
+- Don’t waste too much time on social media
