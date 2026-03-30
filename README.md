@@ -55,6 +55,12 @@ Created profiles on GitHub, LinkedIn, and other platforms.
 
 ---
 
+## How to View
+Open each task folder to view files and screenshots.  
+Refer to the report folder for the complete project report.
+
+---
+
 ## 📊 Learning Outcome
 This project helped me learn and understand about digital tools, safety on the internet, and professional communication.
 
